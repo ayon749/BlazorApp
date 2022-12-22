@@ -26,7 +26,7 @@ namespace EmployeeManagement.Web.Pages
 				Email = "mahedihasn@gmail.com",
 				DOB = new DateTime(1982, 12, 12),
 				Gender = Gender.Male,
-				Department = new Department { DepartmentId = 1, DepartmentName = "CSE" },
+				DepartmentId = 1,
 				PhotoPath="images/sam.png"
 			};
 			Employee e2 = new Employee
@@ -37,7 +37,7 @@ namespace EmployeeManagement.Web.Pages
 				Email = "mahedihasn@gmail.com",
 				DOB = new DateTime(1982, 12, 12),
 				Gender = Gender.Male,
-				Department = new Department { DepartmentId = 1, DepartmentName = "CSE" },
+				DepartmentId = 2,
 				PhotoPath = "images/sam.png"
 			};
 			Employee e3 = new Employee
@@ -48,7 +48,7 @@ namespace EmployeeManagement.Web.Pages
 				Email = "mahedihasn@gmail.com",
 				DOB = new DateTime(1982, 12, 12),
 				Gender = Gender.Male,
-				Department = new Department { DepartmentId = 1, DepartmentName = "CSE" },
+				DepartmentId = 3,
 				PhotoPath = "images/sam.png"
 			};
 			Employees = new List<Employee> { e1, e2, e3 };

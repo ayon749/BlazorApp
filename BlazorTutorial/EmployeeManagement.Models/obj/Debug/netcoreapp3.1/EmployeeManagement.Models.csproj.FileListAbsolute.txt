@@ -7,3 +7,13 @@ E:\Workplace\Blazor\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreap
 E:\Workplace\Blazor\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.csproj.CoreCompileInputs.cache
 E:\Workplace\Blazor\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.dll
 E:\Workplace\Blazor\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.pdb
+E:\Workplace\BlazorApp\BlazorTutorial\EmployeeManagement.Models\bin\Debug\netcoreapp3.1\EmployeeManagement.Models.deps.json
+E:\Workplace\BlazorApp\BlazorTutorial\EmployeeManagement.Models\bin\Debug\netcoreapp3.1\EmployeeManagement.Models.dll
+E:\Workplace\BlazorApp\BlazorTutorial\EmployeeManagement.Models\bin\Debug\netcoreapp3.1\EmployeeManagement.Models.pdb
+E:\Workplace\BlazorApp\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.csproj.AssemblyReference.cache
+E:\Workplace\BlazorApp\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workplace\BlazorApp\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.AssemblyInfoInputs.cache
+E:\Workplace\BlazorApp\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.AssemblyInfo.cs
+E:\Workplace\BlazorApp\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.csproj.CoreCompileInputs.cache
+E:\Workplace\BlazorApp\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.dll
+E:\Workplace\BlazorApp\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.pdb
